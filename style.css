@@ -11,7 +11,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("https://jornalismorio.espm.br/wp-content/uploads/2021/12/confira-agora-os-25-melhores-animes-que-ja-foram-criados-1.jpg"); /*https://source.unsplash.com/1600x900/?landscape*/
+  background-image: url("https://source.unsplash.com/1600x900/?landscape");
 }
 .big-box{
   background: #000;
@@ -46,8 +46,6 @@ input{
 .medium-box{
   margin-top: 30px;
 }
-.img-preview{
-}
 .city{
   color: #fff;
   font-size: 28px;
@@ -66,8 +64,9 @@ input{
 .text-preview{
   margin-left: 20px;
   color: #fff;
+  text-transform: capitalize;
 }
-.moisture{
+.humidity{
   color: #fff;
   margin-top: 20px;
 }
