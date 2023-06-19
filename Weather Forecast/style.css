@@ -21,7 +21,7 @@ body{
   width: 95%;
   max-width: 450px;
 }
-input{
+.input-city{
   border: none;
   outline: none;
   padding: 10px;
